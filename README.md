@@ -40,7 +40,6 @@ custom-stm32-pcb/
 ├── Images/
 ├── KiCad/
 ├── Gerber/
-├── BOM/
 └── README.md
 ```
 
