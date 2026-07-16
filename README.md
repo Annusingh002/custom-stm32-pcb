@@ -50,6 +50,24 @@ custom-stm32-pcb/
 - DRC (Design Rules Check) completed
 - Gerber files generated for PCB fabrication
 
+##  Project Images
+
+### Schematic
+
+![Schematic](Images/schematic.png)
+
+### PCB Layout
+
+![PCB Layout](Images/pcb.png)
+
+### 3D Top View
+
+![3D Top](Images/pcb_3D_top.png)
+
+### 3D Bottom View
+
+![3D Bottom](Images/pcb_3D_bottom.png)
+
 ## Learning Outcomes
 
 Through this project, I gained experience in:
